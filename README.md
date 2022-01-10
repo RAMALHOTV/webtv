@@ -1,5 +1,5 @@
 #EXTM3U
-############################## WEB TV ######################################
+
 #EXTINF:0 tvg-logo="https://static.tumblr.com/b0305ebabfd70f5124993f78570c1520/tfeircd/H8loj9vfx/tumblr_static_65akcisiw0co8s40cwc444s8g.png" group-title="FILMES/SERIES", TV FILMES
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1974501201.m3u8
 
@@ -14,9 +14,6 @@ https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w270002792.m3u8
 
 #EXTINF:0 tvg-logo="https://www.pngkit.com/png/full/148-1483469_ryu-anime.png" group-title="FILMES/SERIES", ANIME TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1630998254.m3u8
-
-#EXTM3U
-#EXTINF:////////////////////ADDON RamalhoIPTV/////////////////////
 
 
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="FILMES/SERIES", RETRO CARTOON
