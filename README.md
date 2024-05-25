@@ -1,5 +1,5 @@
 <item>
-<title>[B]RamalhoIPTV [/B]</title>
+<title>[B]Addon RamalhoIPTV (ussen o F4mTester-inputstream) [/B]</title>
 <link>plugin://</link>
 <link>plugin://</link>
 <thumbnail>https://i.imgur.com/OhHEvFm.jpg</thumbnail>
