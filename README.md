@@ -22,8 +22,7 @@
 
 <item>
 <title>[B]SBT [/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=IPTV;&maxbitrate=0&buffer=8080&url=https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537$nome=[COLOR green]SBT Interior SP
- [/COLOR]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=IPTV;&maxbitrate=0&buffer=8080&url=https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537$nome=[COLOR green]SBT Interior SP[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=IPTV;&maxbitrate=0&buffer=8080&url=https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537 $nome=[COLOR yellow]SBT PE[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=IPTV;&maxbitrate=0&buffer=8080&url=hhttps://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 |User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537$nome=[COLOR green]SBT - TV Difusora (MA) [/COLOR]</link>
