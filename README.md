@@ -7,21 +7,19 @@
 <info>[COLOR deeppink]|[/COLOR]Colabere com o Addon RamalhoIPTV (44)998656144[COLOR deeppink]|[/COLOR]</info>
 </item>
 
+
 <item>
 <title>[B]Globo RJ[/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=IPTV;&maxbitrate=0&buffer=8080&url=https://brflu.walk-tv.com/5756/tracks-v1a1/mono.m3u8
-|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537$nome=[COLOR green]Globo RJ HD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=IPTV;&maxbitrate=0&buffer=8080&url=https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
-|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537 $nome=[COLOR yellow]TGlobo RJ SD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=IPTV;&maxbitrate=0&buffer=8080&url=https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
-|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537$nome=[COLOR green]Globo SP HD[/COLOR]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=IPTV;&maxbitrate=0&buffer=8080&url=http://cdn-3.nxplay.com.br/TV_TEM_TK/index.m3u8
-|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537 $nome=[COLOR yellow]TGlobo SP SD
+<link>https://brflu.walk-tv.com/5756/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537$nome=[COLOR green]Globo RJ HD[/COLOR]</link>
+<link>https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537 $nome=[COLOR yellow] Globo RJ SD[/COLOR]</link>
+<link>https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537$nome=[COLOR green]Globo SP HD[/COLOR]</link>
+<link>http://cdn-3.nxplay.com.br/TV_TEM_TK/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537 $nome=[COLOR yellow] Globo SP SD
 [/COLOR]</link>
 <thumbnail>https://imgur.com/5RQ1PxL.png</thumbnail>
 <fanart>https://imgur.com/5RQ1PxL.png</fanart>
 <info>TV Globo Rio de Janeiro (conhecida também como Globo Rio) é uma emissora de televisão brasileira sediada no Rio de Janeiro, capital do estado homônimo. Opera no canal 4 (29 UHF digital) e é a cabeça de rede da TV Globo. </info>
 </item>
+
 
 
 <item>
